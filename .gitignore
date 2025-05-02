@@ -1,0 +1,10 @@
+.env
+token.json
+credentials.json
+debug.py
+
+*.json
+build/
+dist/
+__pycache__/
+GlobalIntegrator.spec
